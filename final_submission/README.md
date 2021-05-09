@@ -1,2 +1,2 @@
-CSE351 Project
-Contributors: Daniel Bacal, Diwen Liu, Xudong Yang
+#CSE351 Project
+##Contributors: Daniel Bacal, Diwen Liu, Xudong Yang
